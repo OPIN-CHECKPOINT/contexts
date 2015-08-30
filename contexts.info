@@ -9,3 +9,5 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = date_context
